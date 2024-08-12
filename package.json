@@ -12,7 +12,8 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.3"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
@@ -22,6 +23,7 @@
     "npm-run-all2": "^6.2.0",
     "prettier": "^3.3.3",
     "typescript": "~5.4.0",
+    "unplugin-vue-router": "^0.10.2",
     "vite": "^5.3.1",
     "vue-tsc": "^2.0.21"
   }
